@@ -1,15 +1,17 @@
 {
     "profile": {
-        "loanTypes": {
-            "creditCard": {
+        "loanTypes": [
+            {
+                "name": "creditCard",
                 "qualify": true,
                 "icon": "https://dxkdvuv3hanyu.cloudfront.net/design-assets/icons/pbr/credit-card-dark.svg"
             },
-            "termLoan": {
+            {
+                "name": "termLoan",
                 "qualify": false,
                 "icon": "https://dxkdvuv3hanyu.cloudfront.net/design-assets/icons/pbr/loan-light.svg"
             }
-        },
+        ],
         "credit": {
             "score": 706,
             "age": 16,
