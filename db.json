@@ -11,7 +11,7 @@
                 "name": "Term Loan",
                 "qualify": false,
                 "iconLight": "https://dxkdvuv3hanyu.cloudfront.net/design-assets/icons/pbr/loan-light.svg",
-                "iconDark": "https://dxkdvuv3hanyu.cloudfront.net/design-assets/icons/pbr/loan-dark.svg",
+                "iconDark": "https://dxkdvuv3hanyu.cloudfront.net/design-assets/icons/pbr/loan-dark.svg"
             }
         ],
         "credit": {
