@@ -4,12 +4,14 @@
             {
                 "name": "Credit Card",
                 "qualify": true,
-                "icon": "https://dxkdvuv3hanyu.cloudfront.net/design-assets/icons/pbr/credit-card-dark.svg"
+                "iconDark": "https://dxkdvuv3hanyu.cloudfront.net/design-assets/icons/pbr/credit-card-dark.svg",
+                "iconLight": "https://dxkdvuv3hanyu.cloudfront.net/design-assets/icons/pbr/credit-card-dark.svg"
             },
             {
                 "name": "Term Loan",
                 "qualify": false,
-                "icon": "https://dxkdvuv3hanyu.cloudfront.net/design-assets/icons/pbr/loan-light.svg"
+                "iconLight": "https://dxkdvuv3hanyu.cloudfront.net/design-assets/icons/pbr/loan-light.svg",
+                "iconDark": "https://dxkdvuv3hanyu.cloudfront.net/design-assets/icons/pbr/loan-dark.svg",
             }
         ],
         "credit": {
