@@ -14,7 +14,7 @@
                 "https://dxkdvuv3hanyu.cloudfront.net/design-assets/icons/pbr/loan-dark.svg"]
             }
         ],
-        "credit": {
+        "creditInputs": {
             "score": 706,
             "age": 16,
             "inquiries": 2,
