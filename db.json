@@ -16,11 +16,11 @@
         ],
         "creditInputs": {
             "score": 706,
-            "age": 16,
+            "age": "16yr",
             "inquiries": 2,
             "bankruptcies": 0,
-            "utilization": 32,
-            "limit": 49300
+            "utilization": "32%",
+            "limit": "$49,300"
         },
         "businesses": []
     }
